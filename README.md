@@ -1,1 +1,3 @@
-# metro.t-mobile.com
+## http://ceskeleto.t-mobile.cz/
+
+## SUBDOMAIN TAKEOVER
