@@ -1,3 +1,3 @@
-## http://ceskeleto.t-mobile.cz/
+## http://z/
 
 ## SUBDOMAIN TAKEOVER
